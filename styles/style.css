@@ -112,6 +112,14 @@ input:focus {
     background-color: #efefef!important;
 }
 
+.math h1 {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 96px;
+    font-style: italic;
+    color:hsl(325, 13%, 60%);
+    opacity: 0.5;
+    text-shadow: rgba(119, 119, 119, 0.795) 3px 5px 1px;
+}
 
   
 footer {
